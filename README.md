@@ -21,3 +21,6 @@ https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_001
 
 **공모전 분석결과 링크**  
 https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2012_001&teamNo=868
+
+**발표영상**  
+https://www.youtube.com/watch?v=k7f5thwXjLs&t=131s
